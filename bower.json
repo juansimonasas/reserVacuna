@@ -1,0 +1,18 @@
+{
+  "name": "reserVacuna",
+  "version": "0.1.0",
+  "description": "Reserva Vacuna",
+  "authors": [
+    "Juan Simon Asas <juansimonasas@gmail.com>"
+  ],
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-animate": "~1.4.3",
+    "angular-route": "~1.4.3",
+    "bootstrap": "*",
+    "jquery": "*",
+    "jquery-ui": "*",
+    "underscore": "*"
+  }
+}
